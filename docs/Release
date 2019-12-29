@@ -1,0 +1,12 @@
+Origin: Ivan's Repo
+Label: Ivan's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Coding while eating. Don't expect much
+
+SHA256:
+ 8b9ccb476eac5fd4e6fbcec1d6621a016a1432c15d1c9244f9679ebe5330ce81 543 Packages.bz2
+ a438d4af82438088b5fe014c7cc2ce961ea031dd1e8d8c2b49ddfe40f2b215f4 548 Packages.xz

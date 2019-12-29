@@ -1,0 +1,1 @@
+Customise your iOS default accent in macOS style, choosing between some preset colours. Simple, clean, and most importantly [open source](<https://github.com/ivancristina/accent>)!
