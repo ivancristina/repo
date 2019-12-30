@@ -36,13 +36,13 @@
             <div class="scroll_view"><img class="img_card" src="../../assets/com.ivanc.accent/screenshot/01.png"><img class="img_card" src="../../assets/com.ivanc.accent/screenshot/02.png"></div>
             <div class="md_view">
                 <p><p>Customise your iOS default accent in macOS style, choosing between some preset colours. Simple, clean, and most importantly <a href="https://github.com/ivancristina/accent">open source</a>!</p>
+<p>A color picker is <strong>not</strong> in plan, due to the philosophy of the tweak itself.</p>
 <p>A respring may be useful for an optimal result</p>
 <h3>Supported colors</h3>
 <p>🔵 Blue, 🟣 Purple, 🔘 Pink (Default), 🔴 Red, 🟠 Orange, 🟡 Yellow, 🟢 Green, ⚪️ Gray</p>
 <h3>To-do List</h3>
 <ul>
-<li>theme UIAlertViews labels (still blue)</li>
-<li>theme <code>com.apple.mobilenotes</code> (apparently not using default tints)</li>
+<li>theme <code>com.apple.mobilenotes</code> (apparently not using <code>UIColor.h</code> tints)</li>
 <li>theme message bubbles (<code>CKBaloonView</code>)</li>
 </ul>
 </p>
@@ -56,7 +56,7 @@
                 </div>
                 <div class="cell">
                     <div class="title">Version</div>
-                    <div class="text">1.0.0</div>
+                    <div class="text">1.1.0</div>
                     <br><br>
                 </div>
                 <div class="cell">
@@ -70,9 +70,20 @@
                     <br><br>
                 </div>
             </div>
+            <a href="https://github.com/ivancristina/accent" class="table-btn">
+                <div>View Source Code</div>
+            </a>
         </div>
         <div class="changelog">
-            This package has no changelog.
+            <div class="changelog_entry">
+                <h4>1.1.0</h4>
+                <div class="md_view"><p>Assing support to UIAlertViews, fixed a bug causing tint coloring to happen even in disable state.</p>
+</div>
+            </div><div class="changelog_entry">
+                <h4>1.0.0</h4>
+                <div class="md_view"><p>Initial Release.</p>
+</div>
+            </div>
         </div>
         <div class="caption center footer">Ivan&#x27;s Repo. A garbage Silica powered repo</div>
     </div>
