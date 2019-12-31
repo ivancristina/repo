@@ -6,6 +6,3 @@ A respring may be useful for an optimal result.
 
 ### Supported colors
 🔵 Blue, 🟣 Purple, 🔘 Pink (Default), 🔴 Red, 🟠 Orange, 🟡 Yellow, 🟢 Green, ⚪️ Gray
-
-### To-do List
-- theme message bubbles (`CKBaloonView`)
