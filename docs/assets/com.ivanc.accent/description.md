@@ -5,4 +5,4 @@ A color picker is **not** in plan, due to the philosophy of the tweak itself.
 A respring may be useful for an optimal result.
 
 ### Supported colors
-🔵 Blue, 🟣 Purple, 🔘 Pink (Default), 🔴 Red, 🟠 Orange, 🟡 Yellow, 🟢 Green, ⚪️ Gray
+🌐 Teal, 🔵 Blue, 🟣 Purple, 🔘 Pink (Default), 🔴 Red, 🟠 Orange, 🟡 Yellow, 🟢 Green, ⚪️ Gray
